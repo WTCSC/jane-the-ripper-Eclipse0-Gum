@@ -1,2 +1,30 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/d_w3ds2H)
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21358511)
+# Jane The Ripper 
+
+**Jane The Ripper** is an interactive program where users can test out password cracking 
+
+---
+
+## Features  
+- A functional password cracker 
+- Simple, text-based interface  
+- Educational tool for learning(And NOT used for bad intentions!!)
+
+---
+
+## Installation  
+
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/WTCSC/jane-the-ripper-Eclipse0-Gum.git
+   cd jane-the-ripper-Eclipse0-Gum
+
+
+
+![Status](https://img.shields.io/badge/status-working-brightgreen)
+![Python](https://img.shields.io/badge/made%20with-Python-blue)
+
+## Flowchart 
+
+A flow chart of the process:
+
+![Flowchart of GPA-Calculator](Flowchart_hashcracking.png)
